@@ -17,8 +17,8 @@
   <PARAM name="Soft_Ref" datatype="char" arraysize="*" ucd="meta.bib.bibcode;meta.software" value="2002ASPC..281..228B"/>
   <PARAM name="NThreads" datatype="int" ucd="meta.number;meta.software" value="4"/>
   <PARAM name="Date" datatype="char" arraysize="*" ucd="time.event.end;meta.software" value="2017-12-05"/>
-  <PARAM name="Time" datatype="char" arraysize="*" ucd="time.event.end;meta.software" value="23:13:32"/>
-  <PARAM name="Duration" datatype="float" ucd="time.event;meta.software" value="0.99" unit="s"/>
+  <PARAM name="Time" datatype="char" arraysize="*" ucd="time.event.end;meta.software" value="23:56:07"/>
+  <PARAM name="Duration" datatype="float" ucd="time.event;meta.software" value="0.96" unit="s"/>
   <PARAM name="User" datatype="char" arraysize="*" ucd="meta.curation" value="ymh"/>
   <PARAM name="Host" datatype="char" arraysize="*" ucd="meta.curation" value="(null)"/>
   <PARAM name="Path" datatype="char" arraysize="*" ucd="meta.dataset" value="/home/ymh/astr502/finalproject/Ast-502-final-project"/>
@@ -68,8 +68,8 @@
    <DATA><TABLEDATA>
     <TR>
      <TD>1</TD><TD>/home/ymh/astr502/finalproject/Ast-502-final-project/betaPic_J_131210/save/tmp0.fits</TD><TD>(null)</TD><TD>F</TD><TD>(null)</TD>
-     <TD>0</TD><TD>2017-12-05</TD><TD>23:13:32</TD><TD>0.00</TD>
-     <TD>0</TD><TD>0.00189346</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
+     <TD>0</TD><TD>2017-12-05</TD><TD>23:56:07</TD><TD>0.00</TD>
+     <TD>-0.00130334</TD><TD>0.00202387</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
      <TD>NONE</TD><TD>T</TD><TD>0</TD><TD>1</TD><TD>F</TD>
      <TD>0</TD><TD>65534</TD><TD>0</TD><TD>1</TD>
      <TD>1</TD><TD>86.82120383 -51.06651508</TD><TD>0.0143</TD><TD>0</TD><TD>2000</TD><TD>2000</TD>
@@ -77,8 +77,8 @@
     </TR>
     <TR>
      <TD>2</TD><TD>/home/ymh/astr502/finalproject/Ast-502-final-project/betaPic_J_131210/save/tmp1.fits</TD><TD>Weightmap</TD><TD>F</TD><TD>(null)</TD>
-     <TD>0</TD><TD>2017-12-05</TD><TD>23:13:32</TD><TD>0.00</TD>
-     <TD>0.00132846</TD><TD>0.0040529</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
+     <TD>0</TD><TD>2017-12-05</TD><TD>23:56:07</TD><TD>0.00</TD>
+     <TD>0</TD><TD>1</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
      <TD>NONE</TD><TD>F</TD><TD>0</TD><TD>1</TD><TD>F</TD>
      <TD>0</TD><TD>65534</TD><TD>0</TD><TD>1</TD>
      <TD>1</TD><TD>86.82120383 -51.06651508</TD><TD>0.0143</TD><TD>0</TD><TD>2000</TD><TD>2000</TD>
@@ -86,8 +86,8 @@
     </TR>
     <TR>
      <TD>3</TD><TD>/home/ymh/astr502/finalproject/Ast-502-final-project/betaPic_J_131210/save/tmp2.fits</TD><TD>filename</TD><TD>F</TD><TD>(null)</TD>
-     <TD>0</TD><TD>2017-12-05</TD><TD>23:13:32</TD><TD>0.00</TD>
-     <TD>0</TD><TD>0.00164763</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
+     <TD>0</TD><TD>2017-12-05</TD><TD>23:56:07</TD><TD>0.00</TD>
+     <TD>0</TD><TD>0.00423189</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
      <TD>NONE</TD><TD>F</TD><TD>0</TD><TD>1</TD><TD>F</TD>
      <TD>0</TD><TD>65534</TD><TD>0</TD><TD>1</TD>
      <TD>1</TD><TD>86.82120383 -51.06651508</TD><TD>0.0143</TD><TD>0</TD><TD>2000</TD><TD>2000</TD>
@@ -95,8 +95,8 @@
     </TR>
     <TR>
      <TD>4</TD><TD>/home/ymh/astr502/finalproject/Ast-502-final-project/betaPic_J_131210/save/tmp3.fits</TD><TD>if</TD><TD>F</TD><TD>(null)</TD>
-     <TD>0</TD><TD>2017-12-05</TD><TD>23:13:32</TD><TD>0.00</TD>
-     <TD>0</TD><TD>0.000758625</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
+     <TD>0</TD><TD>2017-12-05</TD><TD>23:56:07</TD><TD>0.00</TD>
+     <TD>-0.000214083</TD><TD>0.000447085</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
      <TD>NONE</TD><TD>F</TD><TD>0</TD><TD>1</TD><TD>F</TD>
      <TD>0</TD><TD>65534</TD><TD>0</TD><TD>1</TD>
      <TD>1</TD><TD>86.82120383 -51.06651508</TD><TD>0.0143</TD><TD>0</TD><TD>2000</TD><TD>2000</TD>
@@ -104,8 +104,8 @@
     </TR>
     <TR>
      <TD>5</TD><TD>/home/ymh/astr502/finalproject/Ast-502-final-project/betaPic_J_131210/save/tmp4.fits</TD><TD>suffix</TD><TD>F</TD><TD>(null)</TD>
-     <TD>0</TD><TD>2017-12-05</TD><TD>23:13:32</TD><TD>0.00</TD>
-     <TD>0</TD><TD>1</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
+     <TD>0</TD><TD>2017-12-05</TD><TD>23:56:07</TD><TD>0.00</TD>
+     <TD>0</TD><TD>0.00142</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
      <TD>NONE</TD><TD>F</TD><TD>0</TD><TD>1</TD><TD>F</TD>
      <TD>0</TD><TD>65534</TD><TD>0</TD><TD>1</TD>
      <TD>1</TD><TD>86.82120383 -51.06651508</TD><TD>0.0143</TD><TD>0</TD><TD>2000</TD><TD>2000</TD>
@@ -113,8 +113,8 @@
     </TR>
     <TR>
      <TD>6</TD><TD>/home/ymh/astr502/finalproject/Ast-502-final-project/betaPic_J_131210/save/tmp5.fits</TD><TD>not</TD><TD>F</TD><TD>(null)</TD>
-     <TD>0</TD><TD>2017-12-05</TD><TD>23:13:32</TD><TD>0.00</TD>
-     <TD>0</TD><TD>1</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
+     <TD>0</TD><TD>2017-12-05</TD><TD>23:56:07</TD><TD>0.00</TD>
+     <TD>0</TD><TD>0.00141642</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
      <TD>NONE</TD><TD>F</TD><TD>0</TD><TD>1</TD><TD>F</TD>
      <TD>0</TD><TD>65534</TD><TD>0</TD><TD>1</TD>
      <TD>1</TD><TD>86.82120383 -51.06651508</TD><TD>0.0143</TD><TD>0</TD><TD>2000</TD><TD>2000</TD>
@@ -122,8 +122,8 @@
     </TR>
     <TR>
      <TD>7</TD><TD>/home/ymh/astr502/finalproject/Ast-502-final-project/betaPic_J_131210/save/tmp6.fits</TD><TD>used</TD><TD>F</TD><TD>(null)</TD>
-     <TD>0</TD><TD>2017-12-05</TD><TD>23:13:32</TD><TD>0.00</TD>
-     <TD>0.000879401</TD><TD>0.0015849</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
+     <TD>0</TD><TD>2017-12-05</TD><TD>23:56:07</TD><TD>0.00</TD>
+     <TD>0</TD><TD>0.00327646</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
      <TD>NONE</TD><TD>F</TD><TD>0</TD><TD>1</TD><TD>F</TD>
      <TD>0</TD><TD>65534</TD><TD>0</TD><TD>1</TD>
      <TD>1</TD><TD>86.82120383 -51.06651508</TD><TD>0.0143</TD><TD>0</TD><TD>2000</TD><TD>2000</TD>
@@ -131,8 +131,8 @@
     </TR>
     <TR>
      <TD>8</TD><TD>/home/ymh/astr502/finalproject/Ast-502-final-project/betaPic_J_131210/save/tmp7.fits</TD><TD>(null)</TD><TD>F</TD><TD>(null)</TD>
-     <TD>0</TD><TD>2017-12-05</TD><TD>23:13:32</TD><TD>0.00</TD>
-     <TD>0</TD><TD>1</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
+     <TD>0</TD><TD>2017-12-05</TD><TD>23:56:07</TD><TD>0.00</TD>
+     <TD>0.00160372</TD><TD>0.003869</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
      <TD>NONE</TD><TD>F</TD><TD>0</TD><TD>1</TD><TD>F</TD>
      <TD>0</TD><TD>65534</TD><TD>0</TD><TD>1</TD>
      <TD>1</TD><TD>86.82120383 -51.06651508</TD><TD>0.0143</TD><TD>0</TD><TD>2000</TD><TD>2000</TD>
@@ -140,7 +140,7 @@
     </TR>
     <TR>
      <TD>9</TD><TD>/home/ymh/astr502/finalproject/Ast-502-final-project/betaPic_J_131210/save/tmp8.fits</TD><TD>(null)</TD><TD>F</TD><TD>(null)</TD>
-     <TD>0</TD><TD>2017-12-05</TD><TD>23:13:32</TD><TD>0.00</TD>
+     <TD>0</TD><TD>2017-12-05</TD><TD>23:56:07</TD><TD>0.00</TD>
      <TD>0</TD><TD>1</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
      <TD>NONE</TD><TD>F</TD><TD>0</TD><TD>1</TD><TD>F</TD>
      <TD>0</TD><TD>65534</TD><TD>0</TD><TD>1</TD>
@@ -149,8 +149,8 @@
     </TR>
     <TR>
      <TD>10</TD><TD>/home/ymh/astr502/finalproject/Ast-502-final-project/betaPic_J_131210/save/tmp9.fits</TD><TD>(null)</TD><TD>F</TD><TD>(null)</TD>
-     <TD>0</TD><TD>2017-12-05</TD><TD>23:13:32</TD><TD>0.00</TD>
-     <TD>0</TD><TD>0.00329633</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
+     <TD>0</TD><TD>2017-12-05</TD><TD>23:56:07</TD><TD>0.00</TD>
+     <TD>0</TD><TD>0.00206848</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
      <TD>NONE</TD><TD>F</TD><TD>0</TD><TD>1</TD><TD>F</TD>
      <TD>0</TD><TD>65534</TD><TD>0</TD><TD>1</TD>
      <TD>1</TD><TD>86.82120383 -51.06651508</TD><TD>0.0143</TD><TD>0</TD><TD>2000</TD><TD>2000</TD>
@@ -158,8 +158,8 @@
     </TR>
     <TR>
      <TD>11</TD><TD>/home/ymh/astr502/finalproject/Ast-502-final-project/betaPic_J_131210/save/tmp10.fits</TD><TD>(null)</TD><TD>F</TD><TD>(null)</TD>
-     <TD>0</TD><TD>2017-12-05</TD><TD>23:13:32</TD><TD>0.00</TD>
-     <TD>0</TD><TD>0.00160601</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
+     <TD>0</TD><TD>2017-12-05</TD><TD>23:56:07</TD><TD>0.00</TD>
+     <TD>0</TD><TD>0.00148867</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
      <TD>NONE</TD><TD>F</TD><TD>0</TD><TD>1</TD><TD>F</TD>
      <TD>0</TD><TD>65534</TD><TD>0</TD><TD>1</TD>
      <TD>1</TD><TD>86.82120383 -51.06651508</TD><TD>0.0143</TD><TD>0</TD><TD>2000</TD><TD>2000</TD>
@@ -167,8 +167,8 @@
     </TR>
     <TR>
      <TD>12</TD><TD>/home/ymh/astr502/finalproject/Ast-502-final-project/betaPic_J_131210/save/tmp11.fits</TD><TD>(null)</TD><TD>F</TD><TD>(null)</TD>
-     <TD>0</TD><TD>2017-12-05</TD><TD>23:13:32</TD><TD>0.00</TD>
-     <TD>0</TD><TD>0.00127322</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
+     <TD>0</TD><TD>2017-12-05</TD><TD>23:56:07</TD><TD>0.00</TD>
+     <TD>0</TD><TD>0.00130583</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
      <TD>NONE</TD><TD>F</TD><TD>0</TD><TD>1</TD><TD>F</TD>
      <TD>0</TD><TD>65534</TD><TD>0</TD><TD>1</TD>
      <TD>1</TD><TD>86.82120383 -51.06651508</TD><TD>0.0143</TD><TD>0</TD><TD>2000</TD><TD>2000</TD>
@@ -176,8 +176,8 @@
     </TR>
     <TR>
      <TD>13</TD><TD>/home/ymh/astr502/finalproject/Ast-502-final-project/betaPic_J_131210/save/tmp12.fits</TD><TD>(null)</TD><TD>F</TD><TD>(null)</TD>
-     <TD>0</TD><TD>2017-12-05</TD><TD>23:13:32</TD><TD>0.00</TD>
-     <TD>0</TD><TD>0.00100538</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
+     <TD>0</TD><TD>2017-12-05</TD><TD>23:56:07</TD><TD>0.00</TD>
+     <TD>0</TD><TD>0.00179545</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
      <TD>NONE</TD><TD>F</TD><TD>0</TD><TD>1</TD><TD>F</TD>
      <TD>0</TD><TD>65534</TD><TD>0</TD><TD>1</TD>
      <TD>1</TD><TD>86.82120383 -51.06651508</TD><TD>0.0143</TD><TD>0</TD><TD>2000</TD><TD>2000</TD>
@@ -185,8 +185,8 @@
     </TR>
     <TR>
      <TD>14</TD><TD>/home/ymh/astr502/finalproject/Ast-502-final-project/betaPic_J_131210/save/tmp13.fits</TD><TD>(null)</TD><TD>F</TD><TD>(null)</TD>
-     <TD>0</TD><TD>2017-12-05</TD><TD>23:13:32</TD><TD>0.00</TD>
-     <TD>0</TD><TD>0.00143142</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
+     <TD>0</TD><TD>2017-12-05</TD><TD>23:56:07</TD><TD>0.00</TD>
+     <TD>0</TD><TD>0.00166174</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
      <TD>NONE</TD><TD>F</TD><TD>0</TD><TD>1</TD><TD>F</TD>
      <TD>0</TD><TD>65534</TD><TD>0</TD><TD>1</TD>
      <TD>1</TD><TD>86.82120383 -51.06651508</TD><TD>0.0143</TD><TD>0</TD><TD>2000</TD><TD>2000</TD>
@@ -194,8 +194,8 @@
     </TR>
     <TR>
      <TD>15</TD><TD>/home/ymh/astr502/finalproject/Ast-502-final-project/betaPic_J_131210/save/tmp14.fits</TD><TD>(null)</TD><TD>F</TD><TD>(null)</TD>
-     <TD>0</TD><TD>2017-12-05</TD><TD>23:13:32</TD><TD>0.00</TD>
-     <TD>0</TD><TD>0.00170098</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
+     <TD>0</TD><TD>2017-12-05</TD><TD>23:56:07</TD><TD>0.00</TD>
+     <TD>0</TD><TD>0.00358998</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
      <TD>NONE</TD><TD>F</TD><TD>0</TD><TD>1</TD><TD>F</TD>
      <TD>0</TD><TD>65534</TD><TD>0</TD><TD>1</TD>
      <TD>1</TD><TD>86.82120383 -51.06651508</TD><TD>0.0143</TD><TD>0</TD><TD>2000</TD><TD>2000</TD>
@@ -203,8 +203,8 @@
     </TR>
     <TR>
      <TD>16</TD><TD>/home/ymh/astr502/finalproject/Ast-502-final-project/betaPic_J_131210/save/tmp15.fits</TD><TD>(null)</TD><TD>F</TD><TD>(null)</TD>
-     <TD>0</TD><TD>2017-12-05</TD><TD>23:13:32</TD><TD>0.00</TD>
-     <TD>0.00165524</TD><TD>0.00452126</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
+     <TD>0</TD><TD>2017-12-05</TD><TD>23:56:07</TD><TD>0.00</TD>
+     <TD>0</TD><TD>0.00420989</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
      <TD>NONE</TD><TD>F</TD><TD>0</TD><TD>1</TD><TD>F</TD>
      <TD>0</TD><TD>65534</TD><TD>0</TD><TD>1</TD>
      <TD>1</TD><TD>86.82120383 -51.06651508</TD><TD>0.0143</TD><TD>0</TD><TD>2000</TD><TD>2000</TD>
@@ -212,8 +212,8 @@
     </TR>
     <TR>
      <TD>17</TD><TD>/home/ymh/astr502/finalproject/Ast-502-final-project/betaPic_J_131210/save/tmp16.fits</TD><TD>(null)</TD><TD>F</TD><TD>(null)</TD>
-     <TD>0</TD><TD>2017-12-05</TD><TD>23:13:32</TD><TD>0.00</TD>
-     <TD>0</TD><TD>0.000866627</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
+     <TD>0</TD><TD>2017-12-05</TD><TD>23:56:07</TD><TD>0.00</TD>
+     <TD>0.00026724</TD><TD>0.00340397</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
      <TD>NONE</TD><TD>F</TD><TD>0</TD><TD>1</TD><TD>F</TD>
      <TD>0</TD><TD>65534</TD><TD>0</TD><TD>1</TD>
      <TD>1</TD><TD>86.82120383 -51.06651508</TD><TD>0.0143</TD><TD>0</TD><TD>2000</TD><TD>2000</TD>
@@ -221,8 +221,8 @@
     </TR>
     <TR>
      <TD>18</TD><TD>/home/ymh/astr502/finalproject/Ast-502-final-project/betaPic_J_131210/save/tmp17.fits</TD><TD>(null)</TD><TD>F</TD><TD>(null)</TD>
-     <TD>0</TD><TD>2017-12-05</TD><TD>23:13:32</TD><TD>0.00</TD>
-     <TD>-0.00202543</TD><TD>0.00326192</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
+     <TD>0</TD><TD>2017-12-05</TD><TD>23:56:07</TD><TD>0.00</TD>
+     <TD>0</TD><TD>0.000606863</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
      <TD>NONE</TD><TD>F</TD><TD>0</TD><TD>1</TD><TD>F</TD>
      <TD>0</TD><TD>65534</TD><TD>0</TD><TD>1</TD>
      <TD>1</TD><TD>86.82120383 -51.06651508</TD><TD>0.0143</TD><TD>0</TD><TD>2000</TD><TD>2000</TD>
@@ -230,8 +230,8 @@
     </TR>
     <TR>
      <TD>19</TD><TD>/home/ymh/astr502/finalproject/Ast-502-final-project/betaPic_J_131210/save/tmp18.fits</TD><TD>(null)</TD><TD>F</TD><TD>(null)</TD>
-     <TD>0</TD><TD>2017-12-05</TD><TD>23:13:32</TD><TD>0.00</TD>
-     <TD>4.60306e-06</TD><TD>0.00118544</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
+     <TD>0</TD><TD>2017-12-05</TD><TD>23:56:07</TD><TD>0.00</TD>
+     <TD>0</TD><TD>0.00147681</TD><TD>T</TD><TD>AUTO</TD><TD>128</TD><TD>3</TD><TD>0</TD>
      <TD>NONE</TD><TD>F</TD><TD>0</TD><TD>1</TD><TD>F</TD>
      <TD>0</TD><TD>65534</TD><TD>0</TD><TD>1</TD>
      <TD>1</TD><TD>86.82120383 -51.06651508</TD><TD>0.0143</TD><TD>0</TD><TD>2000</TD><TD>2000</TD>
@@ -245,7 +245,7 @@
    <FIELD name="Time" datatype="char" arraysize="*" ucd="meta;time.event.end"/>
    <FIELD name="Msg" datatype="char" arraysize="*" ucd="meta"/>
    <DATA><TABLEDATA>
-    <TR><TD>2017-12-05</TD><TD>23:13:31</TD><TD>default.swarp not found, using internal defaults</TD></TR>
+    <TR><TD>2017-12-05</TD><TD>23:56:07</TD><TD>default.swarp not found, using internal defaults</TD></TR>
    </TABLEDATA></DATA>
   </TABLE>
   <RESOURCE ID="Config" name="Config">
