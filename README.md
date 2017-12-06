@@ -22,3 +22,8 @@ See notebooks in `pyklip/examples`.
 or
 
     conda install scikit-learn
+
+
+### [SWarp](https://www.astromatic.net/software/swarp)
+
+See the instructions on the website above.
